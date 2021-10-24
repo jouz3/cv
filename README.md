@@ -14,7 +14,8 @@ Always keen to learn new and emerging technologies, to update myself regularly o
 
 ### Core competencies
 
-__C#__ / __SQL__ , ... (TODO)
+**Proficient:** C# / ASP.NET Core / SQL Server / Azure / CI/CD<br>
+**Familiar:** Blazor / Redis / VB.NET / JavaScript / Git
 
 ## Professional Experience
 
@@ -28,7 +29,7 @@ Builds full featured enterprise software for billing, human resources management
   - Implement and maintain Data Wharehousing systems for reporting usage
   - Develop software for on-premises and cloud usage (Azure)
   - Develop Blazor WebAssembly micro-sites to complement monolithic websites
-  - Usage of git for version control and code review processes (Azure Devops repos and Github)
+  - Usage of git/TFS for version control and code review processes (Azure Devops repos, Github and Team Foundation Server)
 
 ## Education
 
