@@ -15,7 +15,7 @@ Always keen to learn new and emerging technologies to update myself regularly.
 ## Core competencies
 
 **Proficient:** C# / ASP.NET Core / SQL Server / Azure / CI/CD<br>
-**Familiar:** Blazor / Redis / VB.NET / JavaScript / Git
+**Familiar:** Blazor / Redis / VB.NET / JavaScript
 
 ## Professional Experience
 
